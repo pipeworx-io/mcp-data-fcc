@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-fcc",
   "title": "Data Fcc",
   "description": "FCC Open Data (opendata.fcc.gov) Socrata MCP.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/data-fcc",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-fcc",
