@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-fcc",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "FCC Open Data (opendata.fcc.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1a000dc44ec1f7ae8836073a0412b39f013a85ec782e66692f365aa8ce1dbdb9",
-    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
+    "sourceHash": "v1-84397b4956881ef59a456f7bc2232de20c119672ec6f64315bc3b6d11dc60b82",
+    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
   }
 }
